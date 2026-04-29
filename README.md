@@ -8,3 +8,8 @@ GUI Development: Built using the `javax.swing` and `java.awt` libraries, featuri
 Event-Driven Logic: Implements the `ActionListener` interface to handle user interactions like adding meetings and saving data dynamically.
 Data Management: Uses arrays to store and manage up to 100 meeting records, including topics, locations, and formatted timestamps.
 Custom UI Design: Features a customized aesthetic with specific color palettes (Beige and Brown), titled borders, and personalized fonts to enhance user experience.
+
+Technologies Used
+Language: Java
+Library: Java Swing & AWT 
+Concepts: Event Handling, GUI Layout Management, Component Styling
